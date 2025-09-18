@@ -11,6 +11,12 @@ Repositorios com os scripts + Docker Compose para a criacao dos ambientes que fa
 - [Elastic APM](https://github.com/renatogroffe/dockercompose-opentelemetry-elasticapm-postgres-mysql-redis)
 - [Zipkin](https://github.com/renatogroffe/dockercompose-opentelemetry-zipkin-postgres-mysql-redis)
 
+Repositorios com as aplicacoes utilizadas nos testes com tracing distribuido:
+- [Console App de orquestracao em .NET 9](https://github.com/renatogroffe/dotnet9-consoleapp-otel-grafana_consumoapis)
+- [API que acessa PostgreSQL, MySQL e Redis - .NET 9 + ASP.NET Core](https://github.com/renatogroffe/aspnetcore9-otel-grafana-postgres-mysql-redis_apicontagem)
+- [API REST criada com Node.js](https://github.com/renatogroffe/nodejs-otel_apiconsumobackend)
+- [API REST criada com Java + Spring + Apache Camel](https://github.com/renatogroffe/java-spring-camel_apiconsumobackend)
+
 Referências:
 - OpenTelemetry: https://opentelemetry.io/
 - OpenTelemetry + .NET: https://learn.microsoft.com/en-us/dotnet/core/diagnostics/observability-with-otel
