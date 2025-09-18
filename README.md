@@ -4,4 +4,8 @@ Materiais de apresentação "Observabilidade Unificada com OpenTelemetry: tracin
 Referências:
 - OpenTelemetry: https://opentelemetry.io/
 - OpenTelemetry + .NET: https://learn.microsoft.com/en-us/dotnet/core/diagnostics/observability-with-otel
-- 
+- Jaeger: 
+- Grafana: 
+- Grafana Alloy: 
+- Zipkin: 
+- Elastic APM: 
