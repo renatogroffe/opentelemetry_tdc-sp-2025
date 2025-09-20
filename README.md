@@ -1,6 +1,8 @@
 # opentelemetry_tdc-sp-2025
 Materiais de apresentação "Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribuídas em .NET e outras stacks" realizada no dia 18/09/2025, durante o TDC São Paulo.
 
+Inclui exemplos utilizando OpenTelemetry com .NET, Java, Node.js, Docker Compose, Grafana, Jaeger, Zipkin, Elastic APM, PostgreSQL, MySQL e Redis.
+
 Palestrantes (links apontando para o LinkedIn, nos adicionem lá 😉):
 - Renato Groffe | [LinkedIn](https://www.linkedin.com/in/renatogroffe/) :: [GitHub](https://github.com/renatogroffe)
 - Alexandre Malavasi | [LinkedIn](https://www.linkedin.com/in/alexandremalavasi/) :: [GitHub](https://github.com/alexandremalavasi)
