@@ -7,7 +7,7 @@ Palestrantes (links apontando para o LinkedIn, nos adicionem lá 😉):
 - Renato Groffe | [LinkedIn](https://www.linkedin.com/in/renatogroffe/) :: [GitHub](https://github.com/renatogroffe)
 - Alexandre Malavasi | [LinkedIn](https://www.linkedin.com/in/alexandremalavasi/) :: [GitHub](https://github.com/alexandremalavasi)
 
-Repositorios com os scripts + Docker Compose para a criacao dos ambientes que faram uso do OpenTelemetry, PostgreSQL, MySQL e Redis:
+Repositorios com os scripts + Docker Compose para a criacao dos ambientes que farao uso do OpenTelemetry, PostgreSQL, MySQL e Redis:
 - [Jaeger](https://github.com/renatogroffe/dockercompose-opentelemetry-jaeger-postgres-mysql-redis)
 - [Grafana](https://github.com/renatogroffe/dockercompose-opentelemetry-grafana-postgres-mysql-redis)
 - [Elastic APM](https://github.com/renatogroffe/dockercompose-opentelemetry-elasticapm-postgres-mysql-redis)
