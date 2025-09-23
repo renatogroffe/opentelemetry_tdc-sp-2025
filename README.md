@@ -26,4 +26,4 @@ Referências:
 - Grafana: https://grafana.com/docs/
 - Grafana Alloy: https://grafana.com/docs/alloy/latest/
 - Zipkin: 
-- Elastic APM: 
+- Elastic APM: https://www.elastic.co/observability/application-performance-monitoring
