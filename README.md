@@ -23,7 +23,7 @@ Referências:
 - OpenTelemetry: https://opentelemetry.io/
 - OpenTelemetry + .NET: https://learn.microsoft.com/en-us/dotnet/core/diagnostics/observability-with-otel
 - Jaeger: 
-- Grafana: 
-- Grafana Alloy: 
+- Grafana: https://grafana.com/docs/
+- Grafana Alloy: https://grafana.com/docs/alloy/latest/
 - Zipkin: 
 - Elastic APM: 
