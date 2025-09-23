@@ -25,5 +25,5 @@ Referências:
 - Jaeger: https://www.jaegertracing.io/
 - Grafana: https://grafana.com/docs/
 - Grafana Alloy: https://grafana.com/docs/alloy/latest/
-- Zipkin: 
+- Zipkin: https://zipkin.io/
 - Elastic APM: https://www.elastic.co/observability/application-performance-monitoring
