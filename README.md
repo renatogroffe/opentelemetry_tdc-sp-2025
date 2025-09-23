@@ -22,7 +22,7 @@ Repositorios com as aplicacoes utilizadas nos testes com tracing distribuido:
 Referências:
 - OpenTelemetry: https://opentelemetry.io/
 - OpenTelemetry + .NET: https://learn.microsoft.com/en-us/dotnet/core/diagnostics/observability-with-otel
-- Jaeger: 
+- Jaeger: https://www.jaegertracing.io/
 - Grafana: https://grafana.com/docs/
 - Grafana Alloy: https://grafana.com/docs/alloy/latest/
 - Zipkin: 
