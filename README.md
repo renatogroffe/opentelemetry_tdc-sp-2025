@@ -25,6 +25,8 @@ Referências:
 - Jaeger: https://www.jaegertracing.io/
 - Grafana: https://grafana.com/docs/
 - Grafana Alloy: https://grafana.com/docs/alloy/latest/
+- Zipkin: https://zipkin.io/
+- Elastic APM: https://www.elastic.co/observability/application-performance-monitoring
 
 ---
 
@@ -43,6 +45,3 @@ Site do evento: **https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-d
 Local: **PRO MAGNO Centro de Eventos - Avenida Professora Ida Kolb, 513 - Jardim das Laranjeiras - São Paulo-SP - CEP: 02518-000**
 
 Esta palestra foi realizada em conjunto com meu amigo **Alexandre Malavasi (Microsoft MVP)**.
-
-- Zipkin: https://zipkin.io/
-- Elastic APM: https://www.elastic.co/observability/application-performance-monitoring
