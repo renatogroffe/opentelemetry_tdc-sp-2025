@@ -25,5 +25,24 @@ Referências:
 - Jaeger: https://www.jaegertracing.io/
 - Grafana: https://grafana.com/docs/
 - Grafana Alloy: https://grafana.com/docs/alloy/latest/
+
+---
+
+Título da apresentação: **Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribuídas em .NET e outras stacks**
+
+Evento: **TDC Summit São Paulo 2025**
+
+Data: **18/09/2025 (quinta-feira)**
+
+Tecnologias e tópicos abordados: **OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker Compose, Kubernetes, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, .NET, ASP.NET Core, Java, Spring Boot, Apache Camel, Node.js, Visual Studio Code, Linux, Python, FastAPI...**
+
+Número de participantes: **160 pessoas (estimativa, presencial + online)**
+
+Site do evento: **https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-dotnet**
+
+Local: **PRO MAGNO Centro de Eventos - Avenida Professora Ida Kolb, 513 - Jardim das Laranjeiras - São Paulo-SP - CEP: 02518-000**
+
+Esta palestra foi realizada em conjunto com meu amigo **Alexandre Malavasi (Microsoft MVP)**.
+
 - Zipkin: https://zipkin.io/
 - Elastic APM: https://www.elastic.co/observability/application-performance-monitoring
