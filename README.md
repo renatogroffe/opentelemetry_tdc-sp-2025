@@ -38,7 +38,7 @@ Data: **18/09/2025 (quinta-feira)**
 
 Tecnologias e tópicos abordados: **OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker Compose, Kubernetes, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, .NET, ASP.NET Core, Java, Spring Boot, Apache Camel, Node.js, Visual Studio Code, Linux, Python, FastAPI...**
 
-Número de participantes: **160 pessoas (estimativa, presencial + online)**
+Número de participantes: **200 pessoas (estimativa, presencial + online)**
 
 Site do evento: **https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-dotnet**
 
