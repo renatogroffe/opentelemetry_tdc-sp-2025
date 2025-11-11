@@ -30,6 +30,8 @@ Referências:
 
 ---
 
+# Sobre o evento
+
 Título da apresentação: **Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribuídas em .NET e outras stacks**
 
 Evento: **TDC Summit São Paulo 2025**
@@ -45,3 +47,4 @@ Site do evento: **https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-d
 Local: **PRO MAGNO Centro de Eventos - Avenida Professora Ida Kolb, 513 - Jardim das Laranjeiras - São Paulo-SP - CEP: 02518-000**
 
 Esta palestra foi realizada em conjunto com meu amigo **Alexandre Malavasi (Microsoft MVP)**.
+
