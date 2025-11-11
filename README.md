@@ -50,4 +50,8 @@ Esta palestra foi realizada em conjunto com meu amigo **Alexandre Malavasi (Micr
 
 ---
 
+![Renato e Alexandre palestrando 1](img/otel-04.jpg)
+
+![Renato e Alexandre palestrando 2](img/otel-10.jpg)
+
 ![Print do site](img/site-01.png)
