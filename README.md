@@ -38,7 +38,7 @@ Evento: **TDC Summit São Paulo 2025**
 
 Data: **18/09/2025 (quinta-feira)**
 
-Tecnologias e tópicos abordados: **OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker Compose, Kubernetes, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, .NET, ASP.NET Core, Java, Spring Boot, Apache Camel, Node.js, Visual Studio Code, Linux, Python, FastAPI...**
+Tecnologias e tópicos abordados: **OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker, Docker Compose, Kubernetes, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, .NET, ASP.NET Core, Java, Spring Boot, Apache Camel, Node.js, Visual Studio Code, Linux, Python, FastAPI...**
 
 Número de participantes: **200 pessoas (estimativa, presencial + online)**
 
