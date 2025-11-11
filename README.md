@@ -30,7 +30,7 @@ Referências:
 
 ---
 
-# Sobre o evento
+# Informações sobre o evento
 
 Título da apresentação: **Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribuídas em .NET e outras stacks**
 
@@ -48,3 +48,6 @@ Local: **PRO MAGNO Centro de Eventos - Avenida Professora Ida Kolb, 513 - Jardim
 
 Esta palestra foi realizada em conjunto com meu amigo **Alexandre Malavasi (Microsoft MVP)**.
 
+---
+
+![Print do site](img/site-01.png)
