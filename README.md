@@ -48,6 +48,9 @@ Local: **PRO MAGNO Centro de Eventos - Avenida Professora Ida Kolb, 513 - Jardim
 
 Esta palestra foi realizada em conjunto com meu amigo **Alexandre Malavasi (Microsoft MVP)**.
 
+Deixo aqui meus agradecimentos aos amigos **Bruno Brito (Microsoft MVP, Docker Captain)**, **Antonio Maniero (Microsoft MVP)**, **Alexandre Santos Costa (Microsoft)** e **Vinicius Clímaco (Microsoft MVP)**, que coordenaram a trilha de Arquitetura .NET e nos deram todo o apoio para que palestrássemos nesta edição do **TDC**.
+
+
 ---
 
 ![Renato e Alexandre palestrando 1](img/otel-04.jpg)
